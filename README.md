@@ -1,2 +1,2 @@
 # Article-Automation
-A part of a continuous effort paving the way towards a smoother research experience through the integration of programmatic automation.
+A part of a continuous effort to create a smoother and more efficient research experience by leveraging programmatic automation.
